@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(int argc, char* argv[]) {
-    int a = 10;
+    int a = 100;
     int *p = &a;
 
     int* b = malloc(sizeof(int));
